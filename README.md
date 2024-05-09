@@ -5,14 +5,14 @@ Hemos aprendido de Github y Git. Github es una herramienta colaborativa que perm
 ```
 ## Tabla de contenido
 + **Notas de lectura del código 102**
- - [102-1](https://github.com/davidgarcia402/reading-notes/102/file1.md)  
-  - [102-1](https://github.com/davidgarcia402/reading-notes/102/file2.md)  
-   - [102-1](https://github.com/davidgarcia402/reading-notes/102/file3.md)  
-    - [102-1](https://github.com/davidgarcia402/reading-notes/102/file4.md)  
-     - [102-1](https://github.com/davidgarcia402/reading-notes/102/file5.md)  
-      - [102-1](https://github.com/davidgarcia402/reading-notes/102/file6.md)  
-       - [102-1](https://github.com/davidgarcia402/reading-notes/102/file7.md)  
-        - [102-1](https://github.com/davidgarcia402/reading-notes/102/file8.md)  
+     - [102-1](https://github.com/davidgarcia402/reading-notes/102/file1.md)  
+     - [102-2](https://github.com/davidgarcia402/reading-notes/102/file2.md)  
+     - [102-3](https://github.com/davidgarcia402/reading-notes/102/file3.md)  
+     - [102-4](https://github.com/davidgarcia402/reading-notes/102/file4.md)  
+     - [102-5](https://github.com/davidgarcia402/reading-notes/102/file5.md)  
+     - [102-6](https://github.com/davidgarcia402/reading-notes/102/file6.md)  
+     - [102-7](https://github.com/davidgarcia402/reading-notes/102/file7.md)  
+     - [102-8](https://github.com/davidgarcia402/reading-notes/102/file8.md)  
 + **Notas de lectura del código 201** 
  - [201-1](https://github.com/davidgarcia402/reading-notes/102/file01.md)  
   - [201-2](https://github.com/davidgarcia402/reading-notes/102/file02.md)  
