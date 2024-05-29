@@ -13,7 +13,7 @@ Hemos aprendido de Github y Git. Github es una herramienta colaborativa que perm
      - [102-5](https://github.com/davidgarcia402/reading-notes/102/file5.md)  
      - [102-6](https://github.com/davidgarcia402/reading-notes/102/file6.md)  
      - [102-7](https://github.com/davidgarcia402/reading-notes/102/file7.md)  
-     - [102-8](https://github.com/davidgarcia402/reading-notes/102/read-8-expresiones-operadores.md)  
+     - [102-8](/102/read-8-expresiones-operadores.md)  
 + **Notas de lectura del código 201** 
      - [201-1](https://github.com/davidgarcia402/reading-notes/102/file01.md)  
      - [201-2](https://github.com/davidgarcia402/reading-notes/102/file02.md)  
