@@ -5,6 +5,7 @@ Hemos aprendido de Github y Git. Github es una herramienta colaborativa que perm
 ```
 ## Tabla de contenido
 + **Notas de lectura del código 102**
+     - [102-0](https://www.linkedin.com/)  
      - [102-1](https://github.com/davidgarcia402/reading-notes/102/file1.md)  
      - [102-2](https://github.com/davidgarcia402/reading-notes/102/file2.md)  
      - [102-3](https://github.com/davidgarcia402/reading-notes/102/file3.md)  
