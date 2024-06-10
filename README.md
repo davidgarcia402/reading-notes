@@ -16,6 +16,7 @@ Hemos aprendido de Github y Git. Github es una herramienta colaborativa que perm
 + **Notas de lectura del código 201** 
      - [201-1](/201/file01.md)  
      - [201-2](/201/r2-conceptos-basicos-html-css-js.md)  
+     - [201-2-prep](/201/prompt-engineering.md)  
      - [201-3](/201/r3-listas-control-flujo-box-model.md)  
      - [201-4](/201/file04.md)  
      - [201-5](/201/file05.md)  
