@@ -20,6 +20,6 @@ Hemos aprendido de Github y Git. Github es una herramienta colaborativa que perm
      - [201-3](/201/r3-listas-control-flujo-box-model.md)  
      - [201-4](/201/r4-enlaces-html-funciones-js-introduccion-css.md)  
      - [201-5](/201/r5-imagenes-color-texto.md)  
-     - [201-6](/201/file06.md)  
+     - [201-6](/201/r6-problemas-objetos-dom.md)  
      - [201-7](/201/file07.md)  
      - [201-8](/201/file08.md)
